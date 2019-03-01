@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Proza+Libre');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+.container {
+	position: absolute;
+	width: 830px;
+	border: 2px solid #EEEEEE;
+	box-sizing: border-box;
+	left:135px;
+	top:70px;
+	padding: 40px;
+}
+#ques {
+	position: relative;
+	width: 720px;
+	border: 2px solid #FFC400;
+	padding: 10px;
+	font-family: Proza Libre;
+	font-size: 20px;
+	color: #333333;	
+	margin-bottom: 20px;
+}
+
+.option {
+
+	width: 720px;
+	border: 2px solid #283593;
+	padding: 10px;
+	margin-bottom: 10px;
+	font-family: Open Sans;
+	font-size: 17px;
+	color: #333333;	
+}
+#bleh {
+	margin-right: 10px;
+}
